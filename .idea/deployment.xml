@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="temp3@113.54.154.220:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="temp3@113.54.150.237:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_526" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="temp3@113.54.150.237:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/AF" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="temp3@113.54.150.237:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="temp3@113.54.154.220:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/MIAT_ECG-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="上传器">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_562" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
